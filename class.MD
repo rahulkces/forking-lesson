@@ -1,3 +1,3 @@
-Ronald
+Ron
 San Francisco, CA
-Meta Front-End Developer Professional Certificate
+Meta Front-End Developer Professional Certificate 
